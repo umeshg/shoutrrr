@@ -2,7 +2,20 @@
   "$schema": "https://railpack.com/config.v1.json",
   "php": {
     "extensions": [
-      "bcmath"
+      "bcmath",
+      "ctype",
+      "curl",
+      "dom",
+      "fileinfo",
+      "filter",
+      "hash",
+      "mbstring",
+      "openssl",
+      "pcre",
+      "pdo",
+      "session",
+      "tokenizer",
+      "xml"
     ]
   }
 }
